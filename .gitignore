@@ -1,0 +1,4 @@
+node_modules
+../tohol/dist
+static/assets
+static/email/test-emails
